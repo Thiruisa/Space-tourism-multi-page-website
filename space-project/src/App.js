@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Header, Home, Destination, Crew, Technology } from "./components";
-// import Header from "./components/Header.js";
 
 function App() {
   return (
